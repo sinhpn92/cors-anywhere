@@ -1,6 +1,0 @@
-[build]
-  command = "yarn"
-  functions = "functions"
-
-[dev]
-  command = "yarn start"
