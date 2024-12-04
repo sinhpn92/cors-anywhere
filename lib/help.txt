@@ -24,7 +24,11 @@ To prevent the use of the proxy for casual browsing, the API requires either the
 or the X-Requested-With header to be set. To avoid unnecessary preflight (OPTIONS) requests,
 it's recommended to not manually set these headers in your code.
 
+Note: This project is fork from `Rob--W`.
+Source code   :   https://github.com/sinhpn92/cors-anywhere
+Documentation :   https://github.com/sinhpn92/cors-anywhere#documentation
 
+Fork from     :
 Demo          :   https://robwu.nl/cors-anywhere.html
 Source code   :   https://github.com/Rob--W/cors-anywhere/
 Documentation :   https://github.com/Rob--W/cors-anywhere/#documentation
